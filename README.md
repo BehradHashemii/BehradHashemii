@@ -44,9 +44,8 @@
 
 ## 📊 GitHub Stats
 
-![Behrad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BehradHashemi&show_icons=true&theme=radical) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=BehradHashemi&theme=radical&hide) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BehradHashemi&theme=radical&hide_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BehradHashemii&theme=radical&hide) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BehradHashemii&theme=radical&hide_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🌎 Connect with Me
